@@ -249,7 +249,7 @@ form { display: flex;
 }
 .embed {
 aspect-ratio: 16 / 9;
-width: 50%;
+width: 100%;
 }
 .embed iframe {
 width: 100%;
