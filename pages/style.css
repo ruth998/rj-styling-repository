@@ -252,7 +252,7 @@ aspect-ratio: 16 / 9;
 width: 100%;
 }
 .embed iframe {
-width: 100%;
+width: 50%;
 height: 50%;
 border: 0;
 }
